@@ -15,7 +15,7 @@ Mori Paiva, Hugo Allan
 - Apellidos, Nombres UXXXXXXXXX
 - Apellidos, Nombres UXXXXXXXXX
 - Apellidos, Nombres UXXXXXXXXX
-- Apellidos, Nombres UXXXXXXXXX
+- Rondon Añaños, Cristopher U20201A291
 
 ## Registro de versiones del informe
 
