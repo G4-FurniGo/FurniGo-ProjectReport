@@ -15,7 +15,7 @@ Mori Paiva, Hugo Allan
 - Apellidos, Nombres UXXXXXXXXX
 - Apellidos, Nombres UXXXXXXXXX
 - Apellidos, Nombres UXXXXXXXXX
-- Apellidos, Nombres UXXXXXXXXX
+- Rondon Añaños, Cristopher U20201A291
 
 ## Registro de versiones del informe
 
@@ -48,11 +48,19 @@ Mori Paiva, Hugo Allan
 > ##### 2.2.2. Registro de entrevistas
 > ##### 2.2.3. Analisis de entrevistas 
 > #### 2.3. Needfinding
-> ##### 2.3.1. User Personas  
+> ##### 2.3.1. User Personas
+![Alt text](img/userPersona1.png)
+![Alt text](img/userPersona2.png)
 > ##### 2.3.2. User Task Matrix
-> ##### 2.3.3. User Journey Mapping
+![Alt text](img/userTaskMatrix.png)
 > ##### 2.3.4. Empathy Mapping
+![Alt text](img/emCliente.png)
+### Segmento Cliente
+![Alt text](img/emCarpintero.png)
+### Segmento Carpintero
 > ##### 2.3.5. As-is Scenario Mapping
+![Alt text](img/aiScenarioCliente.png)
+![Alt text](img/aiScenarioCarpintero.png)
 > ### Capitulo III: Requirements Specification
 > #### 3.1. To-Be Scenario Mapping
 > #### 3.2. User Stories 
@@ -86,6 +94,7 @@ Mori Paiva, Hugo Allan
 > ##### 4.7.2. Class Dictionary
 > #### 4.8. Database Design
 > ##### 4.8.1. Databse Diagram
+![Alt text](img/dbDiagram.png)
 > ### Capitulo V: Product Implementation, Validation & Deployment
 > #### 5.1. Software Configuration Management
 > ##### 5.1.1. Software Development Environment  
