@@ -1,6 +1,5 @@
 <p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
 
-<center>
 # Universidad Peruana de Ciencias Aplicadas  
 ## Ingeniería de Software - Ciclo V  
 ## Desarrollo de Aplicaciones Web  
@@ -19,14 +18,14 @@ Mori Paiva, Hugo Allan
 - Velarde Luyo, Piero Alberto U20211A620  
 - Loli Ruiz, Renzo Javier U202161C993  
 - Rondon Añaños, Cristopher U20201A291  
-- </center>
 
 ## Registro de versiones del informe  
 
 | Fecha | Version | Autor | Descripción |
 | :---: | :---: | :---: | :---: |
-| 01/01/2021 | 0.1 | TechSolutions | Creación del documento |
-| 10/09/2023 | 0.2 | TechSolutions | Se agregaron los capítulos para la entrega de TB1 |
+| 03/09/2023 | 0.1 | SparkLabs | Creación del documento |
+| 10/09/2023 | 0.2 | SparkLabs | Se agregaron los capítulos para la entrega de TB1 |
+| 00/00/0000 | 0.3 | SparkLabs | |
 
 ## Project Report Collaboration Insights  
 
