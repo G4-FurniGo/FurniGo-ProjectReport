@@ -1,23 +1,27 @@
-# Universidad de Ciencias Aplicadas
-## Desarrollo de Aplicaciones Web SV51
-
-
 <p align = "center"> <img src = "https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img> </p>
 
-
-# "Project Report"  
-## TechSolutions - [project_name]  
+<center>
+# Universidad Peruana de Ciencias Aplicadas  
+## Ingeniería de Software - Ciclo V  
+## Desarrollo de Aplicaciones Web  
+## SV51  
 ## Profesor:  
+Mori Paiva, Hugo Allan  
+# Informe de Trabajo Final  
+## SparkLabs  
+## FurniGo  
+## Profesor: 
 Mori Paiva, Hugo Allan  
 
 ## Integrantes:  
-- Apellidos, Nombres UXXXXXXXXX
-- Apellidos, Nombres UXXXXXXXXX
-- Apellidos, Nombres UXXXXXXXXX
-- Apellidos, Nombres UXXXXXXXXX
-- Rondon Añaños, Cristopher U20201A291
+- Cancho Coila, Diego Fabian U20201F479  
+- Isla Quispe, Luis Fernando U202124146  
+- Velarde Luyo, Piero Alberto U20211A620  
+- Loli Ruiz, Renzo Javier U202161C993  
+- Rondon Añaños, Cristopher U20201A291  
+- </center>
 
-## Registro de versiones del informe
+## Registro de versiones del informe  
 
 | Fecha | Version | Autor | Descripción |
 | :---: | :---: | :---: | :---: |
