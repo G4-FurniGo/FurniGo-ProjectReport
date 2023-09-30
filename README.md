@@ -25,7 +25,7 @@ Mori Paiva, Hugo Allan
 | :---: | :---: | :---: | :---: |
 | 03/09/2023 | 0.1 | SparkLabs | Creación del documento |
 | 10/09/2023 | 0.2 | SparkLabs | Se agregaron los capítulos para la entrega de TB1 |
-| 00/00/0000 | 0.3 | SparkLabs | |
+| 30/09/2023 | 0.3 | SparkLabs | Se agregó el capítulo 5.2.2 correspondiente al Sprint 2 |
 
 ## Project Report Collaboration Insights  
 
