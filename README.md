@@ -1093,7 +1093,7 @@ Las herramientas utilizadas para el desarrollo del Landing Page fueron HTML, CSS
 En esta entrega no se incluyó contenido aplicable a la lógica de negocio, por lo que no se incluye evidencia de pruebas unitarias.  
 
 > ###### 5.2.1.5. Execution Evidence for Sprint Review
-Enlace del landing page en ejecución: [Vídeo de ejecución en Microsoft Stream](www.google.com)  
+Enlace del landing page en ejecución: [Vídeo de ejecución en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f479_upc_edu_pe/ETNVvcZmNklMq6_yC1p4xkQBUswDH7Lw6X970T6noiUf5A?e=qoaZ16&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)  
 
 > ###### 5.2.1.6. Services Documentation Evidence for Sprint Review
 En esta entrega no se requirió el uso de servicios externos al ser el landing page una página estática que no requiere de ellos.  
@@ -1143,7 +1143,7 @@ Tanto para la elaboración del reporte como para el landing page, se utilizaron 
 #### 5.2.2.4 Testing Suite Evidence for Sprint Review
 En esta entrega no se incluyó contenido aplicable a la lógica de negocio, por lo que no se incluye evidencia de pruebas unitarias.
 #### 5.2.2.5 Execution Evidence for Sprint Review
-Enlace del front-end en ejecución: [Vídeo de ejecución en Microsoft Stream](www.google.com)
+Enlace del front-end en ejecución: [Vídeo de ejecución en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f479_upc_edu_pe/ETNVvcZmNklMq6_yC1p4xkQBUswDH7Lw6X970T6noiUf5A?e=qoaZ16&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review
 Para el desarrollo del front-end webpage no se requirió de servicios externos.
 
