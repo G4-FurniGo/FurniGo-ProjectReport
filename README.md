@@ -1001,10 +1001,10 @@ Enlace del prototyping del landing page: [Prototyping](https://upcedupe-my.share
 ![Software architecture container diagram](/img/diagram-software-architecture-container.png)  
 
 > ##### 4.6.3. Software Architecture Components Diagrams
-![Software architecture component diagram](../img/diagram-software-architecture-component-user-profile.png)
-![Software architecture component diagram](../img/diagram-software-architecture-component-notification-manager.png)  
-![Software architecture component diagram](../img/diagram-software-architecture-component-order-manager.png)  
-![Software architecture component diagram](../img/diagram-software-architecture-component-payment.png)  
+![Software architecture component diagram](img/diagram-software-architecture-component-user-profile.png)
+![Software architecture component diagram](img/diagram-software-architecture-component-notification-manager.png)  
+![Software architecture component diagram](img/diagram-software-architecture-component-order-manager.png)  
+![Software architecture component diagram](img/diagram-software-architecture-component-payment.png)  
 
 > #### 4.7. Software Object-Oriented Design
 > ##### 4.7.1 Class Diagrams
