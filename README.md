@@ -950,7 +950,7 @@ El cliente y el experto tendran tres secciones en las que podran:
 ![Expert Wireframe](img/app-wireframe-expert-search-orders.png)  
 
 > ##### 4.4.2. Web Application Wireflow Diagrams
-Tanto el usuario como el experto tendran 3 secciones. Con botones para regresar a la seccion principal de cada uno. El perfil del experto aparecera primero al registrarse.  
+Los usuarios tendran a su dispocicion botones para navegar entre las diferentes secciones de la applicacion luego de iniciar sesion o registrarse.
 
 **Expert Wireflow Diagrams:**  
 ![Expert Wireflow Diagrams](img/wireflow-expert-edit-order.jpg)  
@@ -984,11 +984,11 @@ Tanto el usuario como el experto tendran 3 secciones. Con botones para regresar 
 ![Expert Mockup](img/app-mockup-expert-search-orders.png) 
 
 > ##### 4.4.4. Web Application User Flow Diagrams
-**Expert Wireflow Diagrams:**  
-![Expert Wireflow Diagrams](img/user-flow-expert.jpg)  
+**Expert User Flow Diagrams:**  
+![Expert User Flow Diagrams](img/user-flow-expert.jpg)  
 
-**Client Wireflow Diagrams:**  
-![Client Wireflow Diagrams](img/user-flow-client.jpg)  
+**Client User Flow Diagrams:**  
+![Client User Flow Diagrams](img/user-flow-client.jpg)  
 
 > #### 4.5. Web Applications Prototyping
 Enlace del prototyping del landing page: [Prototyping](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20161c993_upc_edu_pe/EuEouMKP5ERIrk-SczrfXDgBlhyw_bAB7zvvTZJthA-AJg)  
