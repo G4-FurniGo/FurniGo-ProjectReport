@@ -933,43 +933,62 @@ El cliente y el experto tendran tres secciones en las que podran:
 1. Cliente: Ver modelos con la lista de expertos que aceptan y sus perfiles, Añadir un nuevo modelo y Ver/Actualizar perfil.  
 2. Experto: Explorar modelos, Ver modelos aceptados y Ver/Actualizar perfil.  
 
-**Client wireframes:**  
+**Client wireframes:**
 
-![Client Wireframe](/img/app-wireframe-client-profile.png)  
-![Client Wireframe](/img/app-wireframe-client-product.png)  
-![Client Wireframe](/img/app-wireframe-client-new-product.png)  
+![Client Wireframe](img/app-wireframe-client-edit-order.png)
+![Client Wireframe](img/app-wireframe-client-new-order.png)
+![Client Wireframe](img/app-wireframe-client-offers.png)
+![Client Wireframe](img/app-wireframe-client-order.png)
+![Client Wireframe](img/app-wireframe-client-orders.png)
+![Client Wireframe](img/app-wireframe-client-profile.png)
 
-**Expert wireframes:**  
-![Expert Wireframe](/img/app-wireframe-expert-profile.png)  
-![Expert Wireframe](/img/app-wireframe-expert-product.png)  
-![Expert Wireframe](/img/app-wireframe-expert-new-product.png)  
+**Expert Wireframes:**
+![Expert Wireframe](img/app-wireframe-expert-edit-order.png)
+![Expert Wireframe](img/app-wireframe-expert-order.png)
+![Expert Wireframe](img/app-wireframe-expert-orders.png)
+![Expert Wireframe](img/app-wireframe-expert-profile.png)
+![Expert Wireframe](img/app-wireframe-expert-search-orders.png)  
 
 > ##### 4.4.2. Web Application Wireflow Diagrams
 Tanto el usuario como el experto tendran 3 secciones. Con botones para regresar a la seccion principal de cada uno. El perfil del experto aparecera primero al registrarse.  
 
 **Expert Wireflow Diagrams:**  
-![Expert Wireflow Diagrams](/img/wireflow-diagram-expert.png)  
+![Expert Wireflow Diagrams](img/wireflow-expert-edit-order.jpg)  
+![Expert Wireflow Diagrams](img/wireflow-expert-order.jpg)  
+![Expert Wireflow Diagrams](img/wireflow-expert-orders.jpg)  
+![Expert Wireflow Diagrams](img/wireflow-expert-profile.jpg)  
+![Expert Wireflow Diagrams](img/wireflow-expert-search-order.jpg)  
 
 **Client Wireflow Diagrams:**  
-![Client Wireflow Diagrams](/img/wireflow-diagram-client.png)  
+![Client Wireflow Diagrams](img/wireflow-client-edit-order.jpg)  
+![Client Wireflow Diagrams](img/wireflow-client-new-order.jpg)  
+![Client Wireflow Diagrams](img/wireflow-client-offers.jpg)  
+![Client Wireflow Diagrams](img/wireflow-client-order.jpg)  
+![Client Wireflow Diagrams](img/wireflow-client-orders.jpg)  
+![Client Wireflow Diagrams](img/wireflow-client-profile.jpg)  
 
 > ##### 4.4.3. Web Application Mock-ups
-**Client mockups:**  
-![Client Mockups](/img/app-mockup-client-profile.png)  
-![Client Mockups](/img/app-mockup-client-product.png)  
-![Client Mockups](/img/app-mockup-client-new-product.png)  
+**Client Mockups:**
+![Client Mockup](img/app-mockup-client-edit-order.png)
+![Client Mockup](img/app-mockup-client-new-order.png)
+![Client Mockup](img/app-mockup-client-offers.png)
+![Client Mockup](img/app-mockup-client-order.png)
+![Client Mockup](img/app-mockup-client-orders.png)
+![Client Mockup](img/app-mockup-client-profile.png)
 
-**Expert mockups:**
-![Expert Mockups](/img/app-mockup-expert-profile.png)
-![Expert Mockups](/img/app-mockup-expert-product.png)
-![Expert Mockups](/img/app-mockup-expert-new-product.png)  
+**Expert Mockups**
+![Expert Mockup](img/app-mockup-expert-edit-order.png)
+![Expert Mockup](img/app-mockup-expert-order.png)
+![Expert Mockup](img/app-mockup-expert-orders.png)
+![Expert Mockup](img/app-mockup-expert-profile.png)
+![Expert Mockup](img/app-mockup-expert-search-orders.png) 
 
 > ##### 4.4.4. Web Application User Flow Diagrams
 **Expert Wireflow Diagrams:**  
-![Expert Wireflow Diagrams](/img/wireflow-diagram-expert.jpg)  
+![Expert Wireflow Diagrams](img/user-flow-expert.jpg)  
 
 **Client Wireflow Diagrams:**  
-![Client Wireflow Diagrams](/img/wireflow-diagram-client.jpg)  
+![Client Wireflow Diagrams](img/user-flow-client.jpg)  
 
 > #### 4.5. Web Applications Prototyping
 Enlace del prototyping del landing page: [Prototyping](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20161c993_upc_edu_pe/EuEouMKP5ERIrk-SczrfXDgBlhyw_bAB7zvvTZJthA-AJg)  
