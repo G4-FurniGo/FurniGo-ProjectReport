@@ -1144,7 +1144,7 @@ Tanto para la elaboración del reporte como para el landing page, se utilizaron 
 | ID | Title | Description | Estimation | Assigned to | Status |
 | --- | --- | --- | --- | --- |--- |
 | 183309406 | Visualizar historial de pedidos completados. | Como usuario Taller quiero poder visualizar el historial de pedidos que he completado. | 3 | Renzo Loli Ruiz | Done|
-| 183309408 | Ver Lista de Pedidos en Pantalla Principal. | Como cliente, quiero ver una lista de mis pedidos en la pantalla principal de la plataforma para facilitar el acceso y seguimiento de mis pedidos. | 5 | Christian Rondon Añaños | Done |
+| 183309408 | Ver Lista de Pedidos en Pantalla Principal. | Como cliente, quiero ver una lista de mis pedidos en la pantalla principal de la plataforma para facilitar el acceso y seguimiento de mis pedidos. | 5 | Cristopher Rondon Añaños | Done |
 | 183309410 | Ver Detalles de un Pedido Nuevo | Como cliente, quiero ver la información detallada de un nuevo pedido, y si el pedido aún no ha sido aceptado, para tener un registro completo y actualizado de mis pedidos pendientes. | 5 | Diego Cancho Coila | Done |
 | 183309411 | Editar Detalles de un Pedido Nuevo | Como cliente, quiero tener la opción de editar la información introducida de mi pedido, como la descripción, fecha, presupuesto y modelo del mueble, para corregir o actualizar la información de manera oportuna si es necesario. | 3 | Piero Velarde Luyo | Done |
 | 183309412 | Ver Información de un Pedido Existente | Como cliente quiero ser redirigido a una pantalla que muestre información detallada, incluyendo descripción, fecha, presupuesto y modelo del mueble, para poder acceder fácilmente a los detalles de mis pedidos anteriores. | 3 | Luis Isla Quispe | Done |
@@ -1174,4 +1174,59 @@ Para el desarrollo del presente sprint, se siguió utilizando Git, GitHub y la m
 A partir de un repositorio main, se clonó una rama develop para llevar a cabo los desarrollos necesarios en otras sub-ramas feature, las cuales se van integrando a la rama develop. Finalmente, antes del deployment, se crea una rama release, la cual luego se integra tanto a la rama main y la rama develop, siendo la primera la cual se despliega en Google Firebase.
 
 ![Evidencia de commits al front-end](./img/sprint2-teamcollaborationinsights.png)  
-![Git network](./img/sprint2-gitnetwork.png)  
+![Git network](./img/sprint2-gitnetwork.png)
+
+<!-- SPRINT 3 -->
+
+### 5.2.3 Sprint 3:
+#### 5.2.3.1 Sprint planning 3
+| Sprint 3 | Implementación de Web Service |
+| --- | --- |
+| **Sprint Planning Background** |  |
+| Date | 28/10/2023, 04/11/2023 |
+| Time  | 15:00-16:00, 15:00-17:00 |
+| Location | Reuniones presenciales en Campus UPC San Miguel  |
+| Prepared by | Diego Cancho Coila |
+| Attendees | Diego Cancho Coila, Piero Velarde Luyo. Renzo Loli Ruiz, Cristopher Rondón Añaños (Virtual), Luis Isla Quispe |
+| **Sprint Goal & User Stories**   |
+| Sprint 3 Goal | Realizar y desplegar el back-end |
+| Sprint 3 Velocity | 20 |
+| Sum of Story Points | 22 |
+
+#### 5.2.3.2 Sprint Backlog 3
+| ID | Title | Description | Estimation | Assigned to | Status |
+| --- | --- | --- | --- | --- |--- |
+| 183309406 | Visualizar historial de pedidos completados. | Como usuario Taller quiero poder visualizar el historial de pedidos que he completado. | 3 | Renzo Loli Ruiz | Done|
+| 183309408 | Ver Lista de Pedidos en Pantalla Principal. | Como cliente, quiero ver una lista de mis pedidos en la pantalla principal de la plataforma para facilitar el acceso y seguimiento de mis pedidos. | 5 | Christian Rondon Añaños | Done |
+| 183309410 | Ver Detalles de un Pedido Nuevo | Como cliente, quiero ver la información detallada de un nuevo pedido, y si el pedido aún no ha sido aceptado, para tener un registro completo y actualizado de mis pedidos pendientes. | 5 | Diego Cancho Coila | Done |
+| 183309411 | Editar Detalles de un Pedido Nuevo | Como cliente, quiero tener la opción de editar la información introducida de mi pedido, como la descripción, fecha, presupuesto y modelo del mueble, para corregir o actualizar la información de manera oportuna si es necesario. | 3 | Piero Velarde Luyo | Done |
+| 183309412 | Ver Información de un Pedido Existente | Como cliente quiero ser redirigido a una pantalla que muestre información detallada, incluyendo descripción, fecha, presupuesto y modelo del mueble, para poder acceder fácilmente a los detalles de mis pedidos anteriores. | 3 | Luis Isla Quispe | Done |
+|183309414 | Acceder a la Información del Carpintero que Aceptó el Pedido | 	Como cliente, quiero poder acceder a la información del carpintero que aceptó mi pedido, incluyendo detalles sobre proyectos anteriores y experiencia, para conocer más sobre la experiencia y el historial del carpintero que trabaja en mi pedido. | 3 | Renzo Loli Ruiz | Done |
+
+#### 5.2.3.3 Development Evidence for Sprint Review
+| Repository | Branch | Commit ID | Commit message | Commit message body | Commited on (Date) |
+| --- | --- | --- | --- | --- | --- |
+| FurniGo-WebServices | master | 1d88047 | Code: add models and services | - | 04/11/2023 |
+| FurniGo-WebServices | master | 774403d | Code: add service impl files and repositories | - | 04/11/2023 |
+| FurniGo-WebServices | master | 36deb69 | Code: implement query and command service impl | - | 04/11/2023 |
+
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review
+En esta entrega no se incluyó contenido aplicable a la lógica de negocio, por lo que no se incluye evidencia de pruebas unitarias.
+#### 5.2.3.5 Execution Evidence for Sprint Review
+Enlace del back-end en ejecución: [Vídeo de ejecución en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f479_upc_edu_pe/ETNVvcZmNklMq6_yC1p4xkQBUswDH7Lw6X970T6noiUf5A?e=qoaZ16&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8 Team Collaboration Insights during Sprint
+Para el desarrollo del presente sprint, se siguió utilizando Git, GitHub y la metodología GitFlow, haciendo uso de ramas para la introducción de nuevas características.
+A partir de un repositorio main, se clonó una rama develop para llevar a cabo los desarrollos necesarios en otras sub-ramas feature, las cuales se van integrando a la rama develop. Finalmente, antes del deployment, se crea una rama release, la cual luego se integra tanto a la rama main y la rama develop, siendo la primera la cual se despliega en Google Firebase.
+
+![Evidencia de commits al front-end](./img/sprint3-teamcollaborationinsights.png)  
+![Git network](./img/sprint2-gitnetwork.png)
+![Evidencia de commits al back-end](./img/sprint3-teamcollaborationinsights-backend.png)  
+
+### 5.3. Validation Interviews.
+#### 5.3.1. Diseño de Entrevistas.
+#### 5.3.2. Registro de Entrevistas.
+#### 5.3.3. Evaluaciones según heurísticas.
