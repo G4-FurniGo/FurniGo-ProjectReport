@@ -1039,7 +1039,7 @@ Los usuarios tendran a su dispocicion botones para navegar entre las diferentes 
 
 #### 4.5. Web Applications Prototyping
 
-Enlace del prototyping del landing page: [Prototyping](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20161c993_upc_edu_pe/EuEouMKP5ERIrk-SczrfXDgBlhyw_bAB7zvvTZJthA-AJg) 
+Enlace del prototyping del landing page: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20161c993_upc_edu_pe/EuEouMKP5ERIrk-SczrfXDgBlhyw_bAB7zvvTZJthA-AJg  
 #### 4.6. Domain-Drive Software Architecture
 
 ##### 4.6.1 Software Architecture Context Diagram
@@ -1175,7 +1175,7 @@ Las herramientas utilizadas para el desarrollo del Landing Page fueron HTML, CSS
 En esta entrega no se incluyó contenido aplicable a la lógica de negocio, por lo que no se incluye evidencia de pruebas unitarias. 
 ###### 5.2.1.5. Execution Evidence for Sprint Review
 
-Enlace del landing page en ejecución: [Vídeo de ejecución en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f479_upc_edu_pe/ETNVvcZmNklMq6_yC1p4xkQBUswDH7Lw6X970T6noiUf5A?e=qoaZ16&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)  
+Enlace del landing page en ejecución: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f479_upc_edu_pe/ETNVvcZmNklMq6_yC1p4xkQBUswDH7Lw6X970T6noiUf5A?e=qoaZ16&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19 
 
 ###### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
@@ -1183,7 +1183,7 @@ En esta entrega no se requirió el uso de servicios externos al ser el landing p
 ###### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 El landing page se desplegó en GitHub Pages, un servicio para el hosting de páginas estáticas. 
-Enlace del landing page desplegado en GitHub Pages: [Enlace](https://github.com/G4-FurniGo/FurniGo-LandingPage) 
+Enlace del landing page desplegado en GitHub Pages: https://github.com/G4-FurniGo/FurniGo-LandingPage
 ###### 5.2.1.8. Team Collaboration Insights during Sprint
 
 Tanto para la elaboración del reporte como para el landing page, se utilizaron repositorios en GitHub y la metodología GitFlow. Para esto, usando Visual Studio Code y la integración con Git, se realizaron commits a las branches correspondientes, y se realizaron pull requests para la revisión de los cambios.
@@ -1269,8 +1269,6 @@ A partir de un repositorio main, se clonó una rama develop para llevar a cabo l
 #### 5.2.3.2 Sprint Backlog 3
 | ID | Title | Description | Estimation | Assigned to | Status |
 | --- | ---- | --- | --- | --- | --- |
-| ID | Title | Description | Estimation | Assigned to | Status |
-| --- | --- | --- | --- | --- |--- |
 | 183309406 | Visualizar historial de pedidos completados. | Como usuario Taller quiero poder visualizar el historial de pedidos que he completado. | 3 | Renzo Loli Ruiz | Done|
 | 183309408 | Ver Lista de Pedidos en Pantalla Principal. | Como cliente, quiero ver una lista de mis pedidos en la pantalla principal de la plataforma para facilitar el acceso y seguimiento de mis pedidos. | 5 | Christian Rondon Añaños | Done |
 | 183309410 | Ver Detalles de un Pedido Nuevo | Como cliente, quiero ver la información detallada de un nuevo pedido, y si el pedido aún no ha sido aceptado, para tener un registro completo y actualizado de mis pedidos pendientes. | 5 | Diego Cancho Coila | Done |
