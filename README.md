@@ -1208,15 +1208,14 @@ Tanto para la elaboración del reporte como para el landing page, se utilizaron 
 | Sum of Story Points            | 22                                                                                                            |
 
 #### 5.2.2.2 Sprint Backlog 2
-
-| ID        | Title                                                        | Description                                                                                                                                                                                                                                          | Estimation | Assigned to             | Status |
-| --------- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------------------- | ------ |
-| 183309406 | Visualizar historial de pedidos completados.                 | Como usuario Taller quiero poder visualizar el historial de pedidos que he completado.                                                                                                                                                               | 3          | Renzo Loli Ruiz         | Done   |
-| 183309408 | Ver Lista de Pedidos en Pantalla Principal.                  | Como cliente, quiero ver una lista de mis pedidos en la pantalla principal de la plataforma para facilitar el acceso y seguimiento de mis pedidos.                                                                                                   | 5          | Christian Rondon Añaños | Done   |
-| 183309410 | Ver Detalles de un Pedido Nuevo                              | Como cliente, quiero ver la información detallada de un nuevo pedido, y si el pedido aún no ha sido aceptado, para tener un registro completo y actualizado de mis pedidos pendientes.                                                               | 5          | Diego Cancho Coila      | Done   |
-| 183309411 | Editar Detalles de un Pedido Nuevo                           | Como cliente, quiero tener la opción de editar la información introducida de mi pedido, como la descripción, fecha, presupuesto y modelo del mueble, para corregir o actualizar la información de manera oportuna si es necesario.                   | 3          | Piero Velarde Luyo      | Done   |
-| 183309412 | Ver Información de un Pedido Existente                       | Como cliente quiero ser redirigido a una pantalla que muestre información detallada, incluyendo descripción, fecha, presupuesto y modelo del mueble, para poder acceder fácilmente a los detalles de mis pedidos anteriores.                         | 3          | Luis Isla Quispe        | Done   |
-| 183309414 | Acceder a la Información del Carpintero que Aceptó el Pedido | Como cliente, quiero poder acceder a la información del carpintero que aceptó mi pedido, incluyendo detalles sobre proyectos anteriores y experiencia, para conocer más sobre la experiencia y el historial del carpintero que trabaja en mi pedido. | 3          | Renzo Loli Ruiz         | Done   |
+| ID | Title | Description | Estimation | Assigned to | Status |
+| --- | --- | --- | --- | --- |--- |
+| 183309406 | Visualizar historial de pedidos completados. | Como usuario Taller quiero poder visualizar el historial de pedidos que he completado. | 3 | Renzo Loli Ruiz | Done|
+| 183309408 | Ver Lista de Pedidos en Pantalla Principal. | Como cliente, quiero ver una lista de mis pedidos en la pantalla principal de la plataforma para facilitar el acceso y seguimiento de mis pedidos. | 5 | Cristopher Rondon Añaños | Done |
+| 183309410 | Ver Detalles de un Pedido Nuevo | Como cliente, quiero ver la información detallada de un nuevo pedido, y si el pedido aún no ha sido aceptado, para tener un registro completo y actualizado de mis pedidos pendientes. | 5 | Diego Cancho Coila | Done |
+| 183309411 | Editar Detalles de un Pedido Nuevo | Como cliente, quiero tener la opción de editar la información introducida de mi pedido, como la descripción, fecha, presupuesto y modelo del mueble, para corregir o actualizar la información de manera oportuna si es necesario. | 3 | Piero Velarde Luyo | Done |
+| 183309412 | Ver Información de un Pedido Existente | Como cliente quiero ser redirigido a una pantalla que muestre información detallada, incluyendo descripción, fecha, presupuesto y modelo del mueble, para poder acceder fácilmente a los detalles de mis pedidos anteriores. | 3 | Luis Isla Quispe | Done |
+|183309414 | Acceder a la Información del Carpintero que Aceptó el Pedido | 	Como cliente, quiero poder acceder a la información del carpintero que aceptó mi pedido, incluyendo detalles sobre proyectos anteriores y experiencia, para conocer más sobre la experiencia y el historial del carpintero que trabaja en mi pedido. | 3 | Renzo Loli Ruiz | Done |
 
 #### 5.2.2.3 Development Evidence for Sprint Review
 
@@ -1270,6 +1269,14 @@ A partir de un repositorio main, se clonó una rama develop para llevar a cabo l
 #### 5.2.3.2 Sprint Backlog 3
 | ID | Title | Description | Estimation | Assigned to | Status |
 | --- | ---- | --- | --- | --- | --- |
+| ID | Title | Description | Estimation | Assigned to | Status |
+| --- | --- | --- | --- | --- |--- |
+| 183309406 | Visualizar historial de pedidos completados. | Como usuario Taller quiero poder visualizar el historial de pedidos que he completado. | 3 | Renzo Loli Ruiz | Done|
+| 183309408 | Ver Lista de Pedidos en Pantalla Principal. | Como cliente, quiero ver una lista de mis pedidos en la pantalla principal de la plataforma para facilitar el acceso y seguimiento de mis pedidos. | 5 | Christian Rondon Añaños | Done |
+| 183309410 | Ver Detalles de un Pedido Nuevo | Como cliente, quiero ver la información detallada de un nuevo pedido, y si el pedido aún no ha sido aceptado, para tener un registro completo y actualizado de mis pedidos pendientes. | 5 | Diego Cancho Coila | Done |
+| 183309411 | Editar Detalles de un Pedido Nuevo | Como cliente, quiero tener la opción de editar la información introducida de mi pedido, como la descripción, fecha, presupuesto y modelo del mueble, para corregir o actualizar la información de manera oportuna si es necesario. | 3 | Piero Velarde Luyo | Done |
+| 183309412 | Ver Información de un Pedido Existente | Como cliente quiero ser redirigido a una pantalla que muestre información detallada, incluyendo descripción, fecha, presupuesto y modelo del mueble, para poder acceder fácilmente a los detalles de mis pedidos anteriores. | 3 | Luis Isla Quispe | Done |
+|183309414 | Acceder a la Información del Carpintero que Aceptó el Pedido | 	Como cliente, quiero poder acceder a la información del carpintero que aceptó mi pedido, incluyendo detalles sobre proyectos anteriores y experiencia, para conocer más sobre la experiencia y el historial del carpintero que trabaja en mi pedido. | 3 | Renzo Loli Ruiz | Done |
 
 #### 5.2.3.3 Development Evidence for Sprint Review
 | Repository | Branch | Commit ID | Commit message | Commit message body | Commited on (Date) |
