@@ -1234,7 +1234,7 @@ En esta entrega no se incluyó contenido aplicable a la lógica de negocio, por 
 
 #### 5.2.2.5 Execution Evidence for Sprint Review
 
-Enlace del front-end en ejecución: [Vídeo de ejecución en Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f479_upc_edu_pe/ETNVvcZmNklMq6_yC1p4xkQBUswDH7Lw6X970T6noiUf5A?e=qoaZ16&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Enlace del front-end en ejecución: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201f479_upc_edu_pe/ETNVvcZmNklMq6_yC1p4xkQBUswDH7Lw6X970T6noiUf5A?e=qoaZ16&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint Review
 
@@ -1243,7 +1243,7 @@ Para el desarrollo del front-end webpage no se requirió de servicios externos.
 #### 5.2.2.7 Software Deployment Evidence for Sprint Review
 
 Para el despliegue de nuestro front-end, utilizamos el servicio de hosting de Google Firebase, el cual aloja el código fuente de nuestro front-end y lo despliega en un servidor web de Google, el cual se puede acceder mediante un enlace.
-Enlace del front-end desplegado en Google Firebase: [Enlace](https://furnigo-27944.web.app/order/list)
+Enlace del front-end desplegado en Google Firebase: https://furnigo-55d8d.web.app/
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint
 
@@ -1252,3 +1252,42 @@ A partir de un repositorio main, se clonó una rama develop para llevar a cabo l
 
 ![Evidencia de commits al front-end](./img/sprint2-teamcollaborationinsights.png)  
 ![Git network](./img/sprint2-gitnetwork.png)  
+
+### 5.2.3 Sprint 3:
+#### 5.2.3.1 Sprint planning 3
+| Sprint 3                       | Implementación de back-end                                                                              |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background** |                                                                                                               |
+| Date                           | 13/10/2023                                                                                        |
+| Time                           | 11:00-13:00                                                                                      |
+| Location                       | Reunión presencial en Campus UPC San Miguel                                                               |
+| Prepared by                    | Diego Cancho Coila                                                                                            |
+| Attendees                      | Diego Cancho Coila, Piero Velarde Luyo. Renzo Loli Ruiz, Cristopher Rondón Añaños (Virtual) |
+| **Sprint Goal & User Stories** |                                                                                                               |
+| Sprint 3 Goal                  | Diseñar e implementar backend de la aplicación                                                                      |
+| Sprint 2 Velocity              | 20                                                                                                            |
+| Sum of Story Points            | 22      
+#### 5.2.3.2 Sprint Backlog 3
+| ID | Title | Description | Estimation | Assigned to | Status |
+| --- | ---- | --- | --- | --- | --- |
+
+#### 5.2.3.3 Development Evidence for Sprint Review
+| Repository | Branch | Commit ID | Commit message | Commit message body | Commited on (Date) |
+| --- | --- | --- | --- | --- | --- |
+| FurniGo-WebServices | develop | 36deb69 | Code: implement query and command service impl | - | 04/11/2023 |
+| FurniGo-WebServices | develop | 1d88047 | Code: add models and services | - | 04/11/2023 |
+| FurniGo-FrontEnd | develop | eebd4c5 | code: repair test-server | - | 04/11/2023 |
+| FurniGo-ProjectReport | tb2 | 1dc36e4 | Add Sprint 3 | - | 04/11/2023 |
+#### 5.2.3.4 Testing Suite Evidence for Sprint Review
+Dado el alcance actual del sprint, aún no se incluyeron los tests unitarios correspondientes a la lógica de negocio.
+#### 5.2.3.5 Execution Evidence for Sprint Review
+Debido al estado actual del proyecto, no se pueden mostrar evidencias de la ejecución de la aplicación.
+#### 5.2.3.6 Services Documentation Evidence for Sprint Review
+Aún no se requirió el uso de servicios externos.
+#### 5.2.3.7 Software Deployment Evidence for Sprint Review
+Debido al estado actual del proyecto, no se puede realizar el deployment de la aplicación. Sin embargo, se incluye a continuación el enlace del repositorio de GitHub, donde se puede encontrar el código fuente de la aplicación.  
+Enlace del repositorio de GitHub: https://github.com/G4-FurniGo/FurniGo-WebServices
+#### 5.2.3.8 Team Collaboration Insights during Sprint
+Para el desarrollo de este sprint, se utilizó la metodología GitFlow, haciendo uso de ramas para la introducción de nuevas características. Sin embargo, debido al limitado alcance, no se incluyeron nuevas ramas, sino que se trabajó directamente en la rama develop.
+
+![Evidencia de commits al back-end](./img/sprint3-teamcollaborationinsights.png)
