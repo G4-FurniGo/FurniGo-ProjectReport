@@ -543,28 +543,898 @@ Segmento carpintero/taller de carpintería:
 
 #### 3.2. User Stories
 
-![User story](./img/a[1]_Página_02.jpg)
-![User story](./img/a[1]_Página_01.jpg)
-![User story](./img/a[1]_Página_03.jpg)
-![User story](./img/a[1]_Página_04.jpg)
-![User story](./img/a[1]_Página_05.jpg)
-![User story](./img/a[1]_Página_06.jpg)
-![User story](./img/a[1]_Página_07.jpg)
-![User story](./img/a[1]_Página_08.jpg)
-![User story](./img/a[1]_Página_09.jpg)
-![User story](./img/a[1]_Página_10.jpg)
-![User story](./img/a[1]_Página_11.jpg)
-![User story](./img/a[1]_Página_12.jpg)
-![User story](./img/a[1]_Página_13.jpg)
-![User story](./img/a[1]_Página_14.jpg)
-![User story](./img/a[1]_Página_15.jpg)
-![User story](./img/a[1]_Página_16.jpg)
-![User story](./img/a[1]_Página_17.jpg)
-![User story](./img/a[1]_Página_18.jpg)
-![User story](./img/a[1]_Página_19.jpg)
-![User story](./img/a[1]_Página_20.jpg)
-![User story](./img/a[1]_Página_21.jpg)
-![User story](./img/a[1]_Página_22.jpg)
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309360</td>
+            <td align="center">Título:</td>
+            <td align="center">Usuario taller contacta con un usuario </td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Taller</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario taller quiero poder contactar con un usuario el cual posea un diseño que pueda realizar.
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Ingreso a la sección Diseños</b> 
+            <br><b>Dado que </b> el usuario taller es un usuario verificado
+            <br><b>Y</b> el usuario taller ha iniciado sesión correctamente
+            <br><b>Y</b> el usuario taller se encuentra en la pantalla principal
+            <br><b>Cuando </b> haga click en la pestaña de la sección Diseños
+            <br><b>Entonces</b> podrá acceder a una interfaz de búsqueda de diseños la cual está compuesta de un buscador, una barra de filtrado de datos y los resultados mostrados en una grilla de cards.
+            <br>          
+            <br>          
+            <b>Scenario 2: Selecciona un diseño en específico</b> 
+            <br><b>Dado que </b> el usuario taller es un usuario verificado
+            <br><b>Y</b> el usuario taller ha iniciado sesión correctamente
+            <br><b>Y</b> el usuario taller se encuentra en la sección Diseños
+            <br><b>Y</b> el usuario taller ha buscado un taller en específico          
+            <br><b>Cuando </b> seleccione un diseño en específico
+            <br><b>Entonces</b> se desplegará una ventana con el gráfico del diseño, detalles técnicos e información relacionada.
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Alta</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">8 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309362</td>
+            <td align="center">Título:</td>
+            <td align="center">Usuario taller elige qué pedido de mueble construir </td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Taller</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario taller quiero visualizar todos los pedidos disponibles a diseñar para elegir el que sea capaz de construirlo
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Elige el pedido de un cliente</b> 
+            <br><b>Dado que </b> el usuario taller ha iniciado sesión correctamente
+            <br><b>Cuando </b> le de click a la opción Mis Proyectos
+            <br><b>Entonces</b> se abrirá una nueva ventana con las demandas de diseños de clientes mas cercanos a la zona
+            <br>            
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Alta</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">8 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309370</td>
+            <td align="center">Título:</td>
+            <td align="center">Usuario taller revisa sus pedidos pendientes </td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Taller</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario de la aplicación quiero visualizar los proyectos de diseño que tengo pendientes, para así poder organizar mi tiempo y entregarlos satisfactoriamente.
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Visualización de pedidos</b> 
+            <br><b>Dado que </b> el usuario taller es un usuario autenticado
+            <br><b>Y</b> el usuario ha iniciado sesión
+            <br><b>Y</b> el usuario se encuentra en la sección de mis proyectos
+            <br><b>Cuando </b> el usuario seleccione la opción de "Pendientes"
+            <br><b>Entonces</b> se visualizarán los proyectos pendientes
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Alta</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">5 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309370</td>
+            <td align="center">Título:</td>
+            <td align="center">Cliente revisa sus últimas órdenes </td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Cliente</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario cliente quiero una sección de órdenes para tener mis órdenes organizadas
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: No ha realizado ninguna órden</b> 
+            <br><b>Dado que </b> el usuario cliente ha iniciado sesión
+            <br><b>Y</b> se encuentra en la pantalla principal
+            <br><b>Y</b> entra al menú
+            <br><b>Cuando </b> seleccione la opción Mis ordenes
+            <br><b>Entonces</b> se mostrará una pantalla vacía con el mensaje "No ha realizado ninguna orden"
+            <br>
+            <b>Scenario 2: Tiene órdenes</b> 
+            <br><b>Dado que </b> el usuario cliente ha iniciado sesión
+            <br><b>Y</b> se encuentra en la pantalla principal
+            <br><b>Y</b> entra al menú
+            <br><b>Cuando </b> seleccione la opción Mis ordenes
+            <br><b>Entonces</b> se mostrará una pantalla mostrando una lista de todas las órdenes pagadas, por pagar y entregadas
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Alta</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">5 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309370</td>
+            <td align="center">Título:</td>
+            <td align="center">Usuario cliente se registra </td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Cliente</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario cliente quiero completar mis datos al registrarme
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Ingreso de datos correctamente</b> 
+            <br><b>Dado que </b> el usuario cliente es un usuario sin registrar
+            <br><b>Y</b> se encuentra en el formulario para cliente
+            <br><b>Cuando </b> presione el botón Registrar
+            <br><b>Entonces</b> se le enviará a la pantalla principal
+            <br>
+            <b>Scenario 2: Omisión de uno de los datos</b> 
+            <br><b>Dado que </b> que el usuario cliente es un usuario sin registrar
+            <br><b>Y</b> se encuentra en el formulario para cliente
+            <br><b>Cuando </b> presione el botón Registrar
+            <br><b>Entonces</b> se cambiará el color del campo omitido a rojo
+            <br>
+            <b>Scenario 3: Ingreso de dato incorrecto</b> 
+            <br><b>Dado que </b> que el usuario cliente es un usuario sin registrar
+            <br><b>Y</b> se encuentra en el formulario para cliente
+            <br><b>Cuando </b> presione el botón Registrar
+            <br><b>Entonces</b> se cambiará el color del campo omitido a rojo
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Alta</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">8 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309370</td>
+            <td align="center">Título:</td>
+            <td align="center">Usuario taller se registra </td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Taller</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario taller quiero completar mis datos al registrarme
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Ingreso de datos correctamente</b> 
+            <br><b>Dado que </b> el usuario taller es un usuario sin registrar
+            <br><b>Y</b> se encuentra en el formulario para taller
+            <br><b>Cuando </b> presione el botón Registrar
+            <br><b>Entonces</b> se le enviará a la pantalla principal
+            <br>
+            <b>Scenario 2: Omisión de uno de los datos</b> 
+            <br><b>Dado que </b> que el usuario taller es un usuario sin registrar
+            <br><b>Y</b> se encuentra en el formulario para taller
+            <br><b>Cuando </b> presione el botón Registrar
+            <br><b>Entonces</b> se cambiará el color del campo omitido a rojo
+            <br>
+            <b>Scenario 3: Ingreso de dato incorrecto</b> 
+            <br><b>Dado que </b> que el usuario taller es un usuario sin registrar
+            <br><b>Y</b> se encuentra en el formulario para taller
+            <br><b>Cuando </b> presione el botón Registrar
+            <br><b>Entonces</b> se cambiará el color del campo omitido a rojo
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Alta</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">8 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309372</td>
+            <td align="center">Título:</td>
+            <td align="center">Registro de Tarjeta </td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Cliente</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario cliente quiero poder administrar mis datos de tarjeta en la aplicación
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Registro de tarjeta</b> 
+            <br><b>Dado que </b> el usuario cliente ha iniciado sesión
+            <br><b>Y</b> se encuentra en la pantalla de información de pago
+            <br><b>Cuando </b> presione el botón "Agregar tarjeta" 
+            <br><b>Entonces</b> se mostrará un formulario para ingresar los datos de la tarjeta
+            <br>
+            <b>Scenario 2: Eliminación de tarjeta registrada</b> 
+            <br><b>Dado que </b> el usuario cliente ha iniciado sesión
+            <br><b>Y</b> se encuentra en la pantalla de información de pago
+            <br><b>Cuando </b> presione el botón "Borrar" de la parte derecha de una de las tarjetas de la lista
+            <br><b>Entonces</b> dicha tarjeta será removida de la lista
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Alta</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">5 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309374</td>
+            <td align="center">Título:</td>
+            <td align="center">Ingreso al menú principal </td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Cliente</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario cliente quiero un menú donde todas las funciones de la aplicación estén disponibles
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Ingreso al menú</b> 
+            <br><b>Dado que </b> el usuario cliente ha iniciado sesión
+            <br><b>Y</b> se encuentre en la pantalla principal
+            <br><b>Cuando </b> presione los tres puntos de forma vertical
+            <br><b>Entonces</b> se mostrará atajos a todas las secciones de la aplicación
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">4 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309376</td>
+            <td align="center">Título:</td>
+            <td align="center">Acceso a las notificaciones </td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Taller</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario taller quiero acceder a un menú de notificaciones para poer administrarlas
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Acceso a las notificaciones</b> 
+            <br><b>Dado que </b> el usuario taller es un usuario registrado
+            <br><b>Y</b> se encuentra en el menú
+            <br><b>Cuando </b> presione el botón "Notificaciones"
+            <br><b>Entonces</b> entrará a la pantalla de notificaciones
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">3 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309378</td>
+            <td align="center">Título:</td>
+            <td align="center">Manejo de notificaciones </td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Taller</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario taller quiero administrar las distintas notificaciones que recibo
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Activación de las notificaciones</b> 
+            <br><b>Dado que </b> el usuario taller es un usuario registrado
+            <br><b>Y</b> se encuentre en la pantalla de notificaciones
+            <br><b>Cuando </b> presione el switch al lado derecho de la categoría correspondiente
+            <br><b>Entonces</b> el switch cambiará a color verde y el usuario recibirá notificaciones de esa categoría
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">2 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309380</td>
+            <td align="center">Título:</td>
+            <td align="center">Ingreso al perfil</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Cliente</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario cliente quiero acceder a mi perfil para manejar mi información
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Ingreso a la información de su perfil</b> 
+            <br><b>Dado que </b> que el usuario cliente ha iniciado sesión correctamente
+            <br><b>Y</b> se encuentre en el menú principal
+            <br><b>Cuando </b> presione el botón Mi Perfil
+            <br><b>Entonces</b> entrará a una pantalla con todos sus datos registrados.
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">2 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309328</td>
+            <td align="center">Título:</td>
+            <td align="center">Modificación de datos</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Cliente</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario cliente quiero modificar la información de mi perfil
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Cambio de datos </b> 
+            <br><b>Dado que </b> el usuario cliente ha iniciado sesión correctamente
+            <br><b>Y</b> se encuentra en su perfil
+            <br><b>Cuando </b> presione la opción Modificar
+            <br><b>Entonces</b> todos los campos estarán libres para modificar
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">3 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309384</td>
+            <td align="center">Título:</td>
+            <td align="center">Ingreso al perfil</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Taller</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify">Como usuario taller quiero acceder a mi perfil para manejar mi información personal.
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Ingreso a la información de su perfil</b> 
+            <br><b>Dado que </b> el usuario taller ha iniciado sesión correctamente
+            <br><b>Y</b> se encuentre en el menú principal
+            <br><b>Cuando </b> presione el botón Mi Perfil
+            <br><b>Entonces</b> entrará a una pantalla con todos sus datos registrados.
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">2 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309388</td>
+            <td align="center">Título:</td>
+            <td align="center">Aceptación de pedido</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Taller</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario taller quisiera habilitar el pago del pedido de un cliente
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Agregación de Monto </b> 
+            <br><b>Dado que </b> el usuario taller es un usuario autenticado
+            <br><b>Y</b> el usuario taller se encuentre en la sección Diseños
+            <br><b>Y</b> el usuario taller ha buscado un taller en específico
+            <br><b>Y</b> el usuario taller ha seleccionado un taller en específico
+            <br><b>Y</b> el usuario taller ha llegado a un acuerdo con el cliente
+            <br><b>Y</b> el usuario taller ha escrito el monto correcto
+            <br><b>Cuando </b> pulse el botón Aceptar
+            <br><b>Entonces</b> la orden se mostrará en la sección Mis Órdenes del cliente
+            <br>
+            <br><b>Scenario 2: Equivocación del monto </b> 
+            <br><b>Dado que </b> el usuario taller es un usuario autenticado
+            <br><b>Y</b> el usuario taller se encuentre en la sección Diseños
+            <br><b>Y</b> el usuario taller ha buscado un taller en específico
+            <br><b>Y</b> el usuario taller ha seleccionado un taller en específico
+            <br><b>Y</b> el usuario taller ha llegado a un acuerdo con el cliente
+            <br><b>Y</b> el usuario taller ha escrito un monto incorrecto
+            <br><b>Cuando </b> pulse el botón Cancelar
+            <br><b>Entonces</b> volverá a la sección Diseños
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">2 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309398</td>
+            <td align="center">Título:</td>
+            <td align="center">Filtro de órdenes</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Cliente</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario cliente quiero filtras mis órdenes para tener una visualización más clara de las mismas
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Filtro por órdenes no pagadas </b> 
+            <br><b>Dado que </b> el cliente ha iniciado sesion
+            <br><b>Y</b> se encuentra en la sección Mis Órdenes
+            <br><b>Y</b> se encuentra en el menú de filtros
+            <br><b>Cuando </b> desmarque la casilla Pagados
+            <br><b>Entonces</b> no se mostrarán las órdenes pagadas
+            <br>
+            <br><b>Scenario 2: Filtro por órdenes no entregadas </b> 
+            <br><b>Dado que </b> el cliente ha iniciado sesion
+            <br><b>Y</b> se encuentra en la sección Mis Órdenes
+            <br><b>Y</b> se encuentra en el menú de filtros
+            <br><b>Cuando </b> desmarque la casilla Entregados
+            <br><b>Entonces</b> no se mostrarán las órdenes entregadas
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Baja</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">2 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309398</td>
+            <td align="center">Título:</td>
+            <td align="center">Lista de tarjetas</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Cliente</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify"> Como usuario cliente quiero ver una lista de las tarjetas que he registrado al momento de pagar para legir la correcta
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Varias tarjetas registradas </b> 
+            <br><b>Dado que </b> el usuario cliente es un usuario registrado
+            <br><b>Y</b> se encuentra en la sección Mis Órdenes
+            <br><b>Cuando </b> seleccione la opción Pagar en uno de sus diseños por pagar
+            <br><b>Entonces</b> se mostrará una lista de todas las tarjetas que ha registrado, con el botón Agregar tarjeta al final de dicha lista.
+            <br>
+            <br><b>Scenario 2: Ninguna tarjeta registrada </b> 
+            <br><b>Dado que </b> el usuario cliente es un usuario registrado
+            <br><b>Y</b> se encuentra en la sección Mis Órdenes            
+            <br><b>Cuando </b> seleccione la opción Pagar en uno de sus diseños por pagar
+            <br><b>Entonces</b> se mostrará un formulario para registrar una tarjeta
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">2 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309394</td>
+            <td align="center">Título:</td>
+            <td align="center">Verificación de tarjeta</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Cliente</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify">Como usuario cliente quiero revisar los datos de mi tarjeta antes de pagar
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Varias tarjetas registradas </b> 
+            <br><b>Dado que </b> el usuario cliente es un usuario registrado
+            <br><b>Y</b> se encuentra en la lista de tarjetas registradas
+            <br><b>Cuando </b> el usuario selecciona una tarjeta
+            <br><b>Entonces</b> se mostrará una pantalla mostrando los datos de la tarjeta elegida junto con el monto a pagar y dos botones, uno de "Confirmar" y otro de "Cancelar"
+            <br>
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">3 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309398</td>
+            <td align="center">Título:</td>
+            <td align="center">Momento del pago</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Cliente</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify">Como usuario cliente quiero confirmar o cancelar el pago de mi producto
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Confirmación de pago </b> 
+            <br><b>Dado que </b> el usuario cliente es un usuario registrado
+            <br><b>Y</b> se encuentra en la pantalla de confirmación
+            <br><b>Cuando </b> presione el botón "Confirmar"
+            <br><b>Entonces</b> Se mostrará el mensaje "Pago realizado con éxito" y se regresará a la pantalla de Mis Órdenes.
+            <br>
+            <br><b>Scenario 2: Saldo insuficiente </b> 
+            <br><b>Dado que </b> el usuario cliente es un usuario registrado
+            <br><b>Y</b> se encuentra en la pantalla de confirmación            
+            <br><b>Cuando </b> presione el botón "Confirmar"
+            <br><b>Entonces</b> se mostrará un mensaje "Transacción rechazada" y se regresará a la pantalla de Mis Órdenes.
+            <br>
+            <br><b>Scenario 3: Declinación de Pago </b> 
+            <br><b>Dado que </b> el usuario cliente se encuentra en la pantalla de confirmación
+            <br><b>Cuando </b> presione el botón "Cancelar"
+            <br><b>Entonces</b> lo llevará a la pantalla de Mis Órdenes.
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">3 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309398</td>
+            <td align="center">Título:</td>
+            <td align="center">Ajustes de notificaciones</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Cliente</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify">Como usuario cliente quiero editar la configuración de las notificaciones.
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> 
+            <b>Scenario 1: Activación de notificaciones </b> 
+            <br><b>Dado que </b> el usuario entra en configuración
+            <br><b>Y</b> está en el apartado de notificaciones
+            <br><b>Y</b> seleccione la opción Recibir notificaciones al correo
+            <br><b>Cuando </b> seleccione la opción SI
+            <br><b>Entonces</b> Recibirá las notificaciones al correo electrónico.
+            <br>
+            <br><b>Scenario 2: Desactivación de notificaciones </b> 
+            <br><b>Dado que </b> el usuario entra en configuración
+            <br><b>Y</b> está en el apartado de notificaciones
+            <br><b>Y</b> seleccione la opción Recibir notifiaciones al correo
+            <br><b>Cuando </b> seleccione la opción NO
+            <br><b>Entonces</b> no recibirá las notificaciones al correo electrónico.
+            </td>            
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">2 puntos</td>
+        </tr>
+    </tbody>
+</table>
+
+<table  border="2" cellpadding="1" bordercolor="#3253dd">
+    <tbody>
+        <tr>
+            <td rowspan=1 align="center">HU:</td>
+            <td rowspan=1 align="center">183309400</td>
+            <td align="center">Título:</td>
+            <td align="center">Múltiples Dispositivos</td>
+        </tr>
+        <tr>
+            <td rowspan=1 align="center">Usuario:</td>
+            <td rowspan=1 align="center">Taller</td>
+            <td align="center">Sprint:</td>
+            <td align="center">1</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Descripción</td>
+            <td colspan=3 align="justify">Como usuario Taller quiero poder ver mis proyetos en diferentes dispositivos al mismo tiempo
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Criterios de Aceptación</td>
+            <td colspan=3 align="justify"> <b>Scenario 1: Uso de dos dispositivos </b> 
+            <br>
+            <b>Dado que </b> el usuario puede iniciar sesión en varios dispositivos al mismo tiempo 
+            <br>
+            <b>Cuando </b> esté eligiendo dos pedidos diferentes en dos dispositivos al mismo tiempo
+            <br>
+            <b>Entonces</b> le aparecerá un mensaje de advertencia en un dispositivo que en el otro dispositivo se está ejecutando una selección de pedido.
+            <br><br>        
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Prioridad</td>
+            <td colspan=3 align="center">Media</td>
+        </tr>
+        <tr>
+            <td colspan=1 align="center">Puntos de Historia</td>
+            <td colspan=3 align="center">3 puntos</td>
+        </tr>
+    </tbody>
+</table>
 
 <table  border="2" cellpadding="1" bordercolor="#3253dd">
     <tbody>
