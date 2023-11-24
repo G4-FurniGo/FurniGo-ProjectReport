@@ -2193,7 +2193,7 @@ Entrevista 1
 - **Edad:** 19
 - **Distrito:** Bellavista
 
-![Imagen](../img/Entrevista1.png)
+![Imagen](./img/Entrevista1.png)
 
 | Resumen |  |
 |---------|--------------------------------------------------|
@@ -2209,7 +2209,7 @@ Entrevista 2
 - **Edad:** 19
 - **Distrito:** San Juan de Lurigancho
 
-![Imagen](../img/Entrevista2.png)
+![Imagen](./img/Entrevista2.png)
 
 | Resumen |  |
 |---------|-------------------------------|
@@ -2265,7 +2265,7 @@ PROBLEMA #1: No es tan intuitivo para comprender y encontrar opciones
 Problema:
 Cuando un usuario intenta aceptar un pedido, se enfrenta a dificultades para encontrar la opción correspondiente en la interfaz. La falta de claridad y visibilidad de la función de aceptación podría generar confusión y frustración para el usuario, comprometiendo la experiencia de usuario.
 
-![Imagen](../img/ProblemaEntrevista1.png)
+![Imagen](./img/ProblemaEntrevista1.png)
 
 Recomendación:
 Destaca visualmente la opción de aceptar, ubicándola en una posición prominente y de fácil acceso. Utiliza colores llamativos o íconos intuitivos para resaltar la acción. Realiza pruebas de usabilidad para validar la eficacia del diseño.
