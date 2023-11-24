@@ -2279,7 +2279,6 @@ Cuando un usuario intenta aceptar un pedido, se enfrenta a dificultades para enc
 Recomendación:
 Destaca visualmente la opción de aceptar, ubicándola en una posición prominente y de fácil acceso. Utiliza colores llamativos o íconos intuitivos para resaltar la acción. Realiza pruebas de usabilidad para validar la eficacia del diseño.
 
-### 5.3.4 Video About-the-Product
 
 # Conclusiones
 ## Conclusiones y recomendaciones
