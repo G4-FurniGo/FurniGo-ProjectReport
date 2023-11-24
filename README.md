@@ -2166,3 +2166,25 @@ Enlace del repositorio de GitHub: https://github.com/G4-FurniGo/FurniGo-WebServi
 Para el desarrollo de este sprint, se utilizó la metodología GitFlow, haciendo uso de ramas para la introducción de nuevas características. Sin embargo, debido al limitado alcance, no se incluyeron nuevas ramas, sino que se trabajó directamente en la rama develop.
 
 ![Evidencia de commits al back-end](./img/sprint3-teamcollaborationinsights.png)
+
+# Conclusiones
+## Conclusiones y recomendaciones
+- Para una mejor organización del equipo, se recomienda utilizar herramientas de gestión de proyectos como Trello, las cuales permiten organizar las tareas de manera eficiente y asignar responsabilidades a los miembros del equipo.
+- Para el desarrollo de la aplicación, se recomienda utilizar un framework de desarrollo web como Angular o React, los cuales permiten una mejor organización del código y una mayor facilidad para el desarrollo de componentes reusables.
+- Es necesario un buen manejo de diseño de Base de Datos para evitar problemas de redundancia y normalizar la información.
+- Es necesario un buen manejo de la metodología GitFlow para evitar problemas de integración de código y conflictos entre ramas.
+- Se recomienda utilizar trabajos bien establecidos los cuales te proporcionen un inicio sólido para el desarrollo de la aplicación.
+## Video About The Team
+
+# Bibliografía
+- Rodríguez, A. (30 de noviembre de 2020). La industria maderera peruana en tiempos del COVID-19: Efectos y esfuerzos para su recuperación. FORESTS. Recuperado de https://www.forest-trends.org/blog/la-industria-maderera-peruana-en-tiempos-del-covid-19-efectos-y-esfuerzos-para-su-recuperacion/ [Consulta: 1 de mayo de 2022].
+- Bampakos, A., & Deeleman, P. (2023). Learning Angular, 4th Edition. [PDF]. https://dl.ebooksworld.ir/books/Learning.Angular.4th.Edition.Aristeidis.Bampakos.Packt.9781803240602.EBooksWorld.ir.pdf [Consulta: 18 de noviembre de 2023].
+- Spring Boot documentation. (2023). Disponible en: [https://spring.io/projects/spring-boot]. [Consulta: 20 de noviembre de 2023].
+- Green, B., Sanderson, S., & Hevery, M. (2012). Angular: Up & Running. Birmingham, UK: Packt Publishing. [Consulta: 4 de noviembre de 2023].
+- Hevery, M., & Green, B. (2012). Angular: A New Framework for Web Application Development. IEEE Software, 29(5), 38-43. [Consulta: 13 de noviembre de 2023].
+# Anexos
+- [Enlace del prototyping del landing page](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20161c993_upc_edu_pe/EuEouMKP5ERIrk-SczrfXDgBlhyw_bAB7zvvTZJthA-AJg)
+- [Enlace del repositorio del Front End en GitHub](https://github.com/G4-FurniGo/FurniGo-FrontEnd)
+- [Enlace del repositorio del Back End en GitHub](https://github.com/G4-FurniGo/FurniGo-WebServices)
+- [Enlace del front-end desplegado en Google Firebase](https://furnigo-55d8d.web.app/)
+- [Enlace al back-end desplegado en Railway]()
