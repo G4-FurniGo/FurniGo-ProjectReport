@@ -2281,6 +2281,9 @@ Destaca visualmente la opción de aceptar, ubicándola en una posición prominen
 
 ### 5.3.4 Video About-the-Product
 
+
+
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 - Para una mejor organización del equipo, se recomienda utilizar herramientas de gestión de proyectos como Trello, las cuales permiten organizar las tareas de manera eficiente y asignar responsabilidades a los miembros del equipo.
@@ -2289,6 +2292,9 @@ Destaca visualmente la opción de aceptar, ubicándola en una posición prominen
 - Es necesario un buen manejo de la metodología GitFlow para evitar problemas de integración de código y conflictos entre ramas.
 - Se recomienda utilizar trabajos bien establecidos los cuales te proporcionen un inicio sólido para el desarrollo de la aplicación.
 ## Video About The Team
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124146_upc_edu_pe/Ea0VJ5bvmVxIu9IsusLwUjoBXASVd6dfufXSzSsm3A8pFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=NyjilH
+
+![Imagen](./img/AboutTeam.png)
 
 # Bibliografía
 - Rodríguez, A. (30 de noviembre de 2020). La industria maderera peruana en tiempos del COVID-19: Efectos y esfuerzos para su recuperación. FORESTS. Recuperado de https://www.forest-trends.org/blog/la-industria-maderera-peruana-en-tiempos-del-covid-19-efectos-y-esfuerzos-para-su-recuperacion/ [Consulta: 1 de mayo de 2022].
