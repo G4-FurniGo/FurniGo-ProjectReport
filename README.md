@@ -2184,7 +2184,7 @@ Para el desarrollo de este sprint, se utilizó la metodología GitFlow, haciendo
 - Hevery, M., & Green, B. (2012). Angular: A New Framework for Web Application Development. IEEE Software, 29(5), 38-43. [Consulta: 13 de noviembre de 2023].
 # Anexos
 - [Enlace del prototyping del landing page](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20161c993_upc_edu_pe/EuEouMKP5ERIrk-SczrfXDgBlhyw_bAB7zvvTZJthA-AJg)
-- [Enlace del landing page] (https://g4-furnigo.github.io/FurniGo-LandingPage/)
+- [Enlace del landing page](https://g4-furnigo.github.io/FurniGo-LandingPage/)
 - [Enlace del repositorio del Front End en GitHub](https://github.com/G4-FurniGo/FurniGo-FrontEnd)
 - [Enlace del repositorio del Back End en GitHub](https://github.com/G4-FurniGo/FurniGo-WebServices)
 - [Enlace del front-end desplegado en Google Firebase](https://furnigo-55d8d.web.app/)
