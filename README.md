@@ -2279,7 +2279,6 @@ Cuando un usuario intenta aceptar un pedido, se enfrenta a dificultades para enc
 Recomendación:
 Destaca visualmente la opción de aceptar, ubicándola en una posición prominente y de fácil acceso. Utiliza colores llamativos o íconos intuitivos para resaltar la acción. Realiza pruebas de usabilidad para validar la eficacia del diseño.
 
-### 5.3.4 Video About-the-Product
 
 
 
@@ -2303,9 +2302,9 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202124146_upc_edu_pe/Ea0VJ5bv
 - Green, B., Sanderson, S., & Hevery, M. (2012). Angular: Up & Running. Birmingham, UK: Packt Publishing. [Consulta: 4 de noviembre de 2023].
 - Hevery, M., & Green, B. (2012). Angular: A New Framework for Web Application Development. IEEE Software, 29(5), 38-43. [Consulta: 13 de noviembre de 2023].
 # Anexos
-- [Enlace del prototyping del landing page](https://upcedupe-my.sharepoint.com/:f:/g/personal/u20161c993_upc_edu_pe/EuEouMKP5ERIrk-SczrfXDgBlhyw_bAB7zvvTZJthA-AJg)
-- [Enlace del landing page](https://g4-furnigo.github.io/FurniGo-LandingPage/)
-- [Enlace del repositorio del Front End en GitHub](https://github.com/G4-FurniGo/FurniGo-FrontEnd)
-- [Enlace del repositorio del Back End en GitHub](https://github.com/G4-FurniGo/FurniGo-WebServices)
-- [Enlace del front-end desplegado en Google Firebase](https://furnigo-55d8d.web.app/)
-- [Enlace al back-end desplegado en Railway]()
+- Enlace del prototyping del landing page (https://upcedupe-my.sharepoint.com/:f:/g/personal/u20161c993_upc_edu_pe/EuEouMKP5ERIrk-SczrfXDgBlhyw_bAB7zvvTZJthA-AJg)
+- Enlace del landing page (https://g4-furnigo.github.io/FurniGo-LandingPage/)
+- Enlace del repositorio del Front End en GitHub (https://github.com/G4-FurniGo/FurniGo-FrontEnd)
+- Enlace del repositorio del Back End en GitHub (https://github.com/G4-FurniGo/FurniGo-WebServices)
+- Enlace del front-end desplegado en Google Firebase (https://furnigo-55d8d.web.app/)
+- Enlace al back-end desplegado en Railway (http://bashful-boundary-production.up.railway.app)
